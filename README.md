@@ -1,12 +1,12 @@
 # NorskaLib Pools
-Switch language: [RUS](x) | **ENG**
+Switch language: [RUS](https://github.com/NorskaGames/NorskaLib.Pools/blob/master/README.ru.md) | **ENG**
 
 Contains simple MonoBehaviour pools implementation.
 
 ## Installation
 To install this package using Unity Package Manager simply insert this address:
 ```
-x
+https://github.com/NorskaGames/NorskaLib.Pools.git
 ```
 ## Dependencies
-* [NorskaLib Core](x)
+* [NorskaLib Core](https://github.com/NorskaGames/NorskaLib.Core.git)
